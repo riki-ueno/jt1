@@ -1,0 +1,560 @@
+[1mdiff --git a/bin/drill/AssertionWrapper.class b/bin/drill/AssertionWrapper.class[m
+[1mdeleted file mode 100644[m
+[1mindex a0a4bde..0000000[m
+Binary files a/bin/drill/AssertionWrapper.class and /dev/null differ
+[1mdiff --git a/bin/drill/BaseTest.class b/bin/drill/BaseTest.class[m
+[1mdeleted file mode 100644[m
+[1mindex 731a500..0000000[m
+Binary files a/bin/drill/BaseTest.class and /dev/null differ
+[1mdiff --git a/bin/drill/BaseTestDto.class b/bin/drill/BaseTestDto.class[m
+[1mdeleted file mode 100644[m
+[1mindex 5ac9579..0000000[m
+Binary files a/bin/drill/BaseTestDto.class and /dev/null differ
+[1mdiff --git a/bin/drill/RegexMatcher.class b/bin/drill/RegexMatcher.class[m
+[1mdeleted file mode 100644[m
+[1mindex 44b0a56..0000000[m
+Binary files a/bin/drill/RegexMatcher.class and /dev/null differ
+[1mdiff --git a/bin/drill/TestOther$1.class b/bin/drill/TestOther$1.class[m
+[1mdeleted file mode 100644[m
+[1mindex 4eea673..0000000[m
+Binary files a/bin/drill/TestOther$1.class and /dev/null differ
+[1mdiff --git a/bin/drill/TestOther$2.class b/bin/drill/TestOther$2.class[m
+[1mdeleted file mode 100644[m
+[1mindex 3116fa4..0000000[m
+Binary files a/bin/drill/TestOther$2.class and /dev/null differ
+[1mdiff --git a/bin/drill/TestOther$EsResponse.class b/bin/drill/TestOther$EsResponse.class[m
+[1mdeleted file mode 100644[m
+[1mindex 313d672..0000000[m
+Binary files a/bin/drill/TestOther$EsResponse.class and /dev/null differ
+[1mdiff --git a/bin/drill/TestOther.class b/bin/drill/TestOther.class[m
+[1mdeleted file mode 100644[m
+[1mindex 9e1bc07..0000000[m
+Binary files a/bin/drill/TestOther.class and /dev/null differ
+[1mdiff --git a/bin/drill/step01/Variable01.class b/bin/drill/step01/Variable01.class[m
+[1mdeleted file mode 100644[m
+[1mindex fd98c9b..0000000[m
+Binary files a/bin/drill/step01/Variable01.class and /dev/null differ
+[1mdiff --git a/bin/drill/step01/Variable01Test.class b/bin/drill/step01/Variable01Test.class[m
+[1mdeleted file mode 100644[m
+[1mindex 2bc4326..0000000[m
+Binary files a/bin/drill/step01/Variable01Test.class and /dev/null differ
+[1mdiff --git a/bin/drill/step01/Variable02.class b/bin/drill/step01/Variable02.class[m
+[1mdeleted file mode 100644[m
+[1mindex 3160c4b..0000000[m
+Binary files a/bin/drill/step01/Variable02.class and /dev/null differ
+[1mdiff --git a/bin/drill/step01/Variable02Test.class b/bin/drill/step01/Variable02Test.class[m
+[1mdeleted file mode 100644[m
+[1mindex e3548a5..0000000[m
+Binary files a/bin/drill/step01/Variable02Test.class and /dev/null differ
+[1mdiff --git a/bin/drill/step01/Variable03.class b/bin/drill/step01/Variable03.class[m
+[1mdeleted file mode 100644[m
+[1mindex 85266f6..0000000[m
+Binary files a/bin/drill/step01/Variable03.class and /dev/null differ
+[1mdiff --git a/bin/drill/step01/Variable03Test.class b/bin/drill/step01/Variable03Test.class[m
+[1mdeleted file mode 100644[m
+[1mindex 1fea8d7..0000000[m
+Binary files a/bin/drill/step01/Variable03Test.class and /dev/null differ
+[1mdiff --git a/bin/drill/step02/Array01.class b/bin/drill/step02/Array01.class[m
+[1mdeleted file mode 100644[m
+[1mindex aba7dd5..0000000[m
+Binary files a/bin/drill/step02/Array01.class and /dev/null differ
+[1mdiff --git a/bin/drill/step02/Array01Test.class b/bin/drill/step02/Array01Test.class[m
+[1mdeleted file mode 100644[m
+[1mindex 3ed966b..0000000[m
+Binary files a/bin/drill/step02/Array01Test.class and /dev/null differ
+[1mdiff --git a/bin/drill/step02/Array02.class b/bin/drill/step02/Array02.class[m
+[1mdeleted file mode 100644[m
+[1mindex cc80f05..0000000[m
+Binary files a/bin/drill/step02/Array02.class and /dev/null differ
+[1mdiff --git a/bin/drill/step02/Array02Test.class b/bin/drill/step02/Array02Test.class[m
+[1mdeleted file mode 100644[m
+[1mindex 5e746bb..0000000[m
+Binary files a/bin/drill/step02/Array02Test.class and /dev/null differ
+[1mdiff --git a/bin/drill/step02/Array03.class b/bin/drill/step02/Array03.class[m
+[1mdeleted file mode 100644[m
+[1mindex d151ef8..0000000[m
+Binary files a/bin/drill/step02/Array03.class and /dev/null differ
+[1mdiff --git a/bin/drill/step02/Array03Test.class b/bin/drill/step02/Array03Test.class[m
+[1mdeleted file mode 100644[m
+[1mindex 717b35c..0000000[m
+Binary files a/bin/drill/step02/Array03Test.class and /dev/null differ
+[1mdiff --git a/bin/drill/step03/If01.class b/bin/drill/step03/If01.class[m
+[1mdeleted file mode 100644[m
+[1mindex 5e1c3f3..0000000[m
+Binary files a/bin/drill/step03/If01.class and /dev/null differ
+[1mdiff --git a/bin/drill/step03/If01Test.class b/bin/drill/step03/If01Test.class[m
+[1mdeleted file mode 100644[m
+[1mindex f8579b3..0000000[m
+Binary files a/bin/drill/step03/If01Test.class and /dev/null differ
+[1mdiff --git a/bin/drill/step03/If02.class b/bin/drill/step03/If02.class[m
+[1mdeleted file mode 100644[m
+[1mindex 48df4a9..0000000[m
+Binary files a/bin/drill/step03/If02.class and /dev/null differ
+[1mdiff --git a/bin/drill/step03/If02Test.class b/bin/drill/step03/If02Test.class[m
+[1mdeleted file mode 100644[m
+[1mindex 6a843a0..0000000[m
+Binary files a/bin/drill/step03/If02Test.class and /dev/null differ
+[1mdiff --git a/bin/drill/step03/If03.class b/bin/drill/step03/If03.class[m
+[1mdeleted file mode 100644[m
+[1mindex 88c96ad..0000000[m
+Binary files a/bin/drill/step03/If03.class and /dev/null differ
+[1mdiff --git a/bin/drill/step03/If03Test.class b/bin/drill/step03/If03Test.class[m
+[1mdeleted file mode 100644[m
+[1mindex a1a6350..0000000[m
+Binary files a/bin/drill/step03/If03Test.class and /dev/null differ
+[1mdiff --git a/bin/drill/step03/If04.class b/bin/drill/step03/If04.class[m
+[1mdeleted file mode 100644[m
+[1mindex 0c92485..0000000[m
+Binary files a/bin/drill/step03/If04.class and /dev/null differ
+[1mdiff --git a/bin/drill/step03/If04Test.class b/bin/drill/step03/If04Test.class[m
+[1mdeleted file mode 100644[m
+[1mindex 7122fdb..0000000[m
+Binary files a/bin/drill/step03/If04Test.class and /dev/null differ
+[1mdiff --git a/bin/drill/step04/For01.class b/bin/drill/step04/For01.class[m
+[1mdeleted file mode 100644[m
+[1mindex 31c5434..0000000[m
+Binary files a/bin/drill/step04/For01.class and /dev/null differ
+[1mdiff --git a/bin/drill/step04/For01Test.class b/bin/drill/step04/For01Test.class[m
+[1mdeleted file mode 100644[m
+[1mindex 5370702..0000000[m
+Binary files a/bin/drill/step04/For01Test.class and /dev/null differ
+[1mdiff --git a/bin/drill/step04/For02.class b/bin/drill/step04/For02.class[m
+[1mdeleted file mode 100644[m
+[1mindex 6117081..0000000[m
+Binary files a/bin/drill/step04/For02.class and /dev/null differ
+[1mdiff --git a/bin/drill/step04/For02Test.class b/bin/drill/step04/For02Test.class[m
+[1mdeleted file mode 100644[m
+[1mindex 1ce4565..0000000[m
+Binary files a/bin/drill/step04/For02Test.class and /dev/null differ
+[1mdiff --git a/bin/drill/step04/For03.class b/bin/drill/step04/For03.class[m
+[1mdeleted file mode 100644[m
+[1mindex 6ac4ec9..0000000[m
+Binary files a/bin/drill/step04/For03.class and /dev/null differ
+[1mdiff --git a/bin/drill/step04/For03Test.class b/bin/drill/step04/For03Test.class[m
+[1mdeleted file mode 100644[m
+[1mindex abb5baf..0000000[m
+Binary files a/bin/drill/step04/For03Test.class and /dev/null differ
+[1mdiff --git a/bin/drill/step04/For04.class b/bin/drill/step04/For04.class[m
+[1mdeleted file mode 100644[m
+[1mindex 5377c66..0000000[m
+Binary files a/bin/drill/step04/For04.class and /dev/null differ
+[1mdiff --git a/bin/drill/step04/For04Test.class b/bin/drill/step04/For04Test.class[m
+[1mdeleted file mode 100644[m
+[1mindex 747089d..0000000[m
+Binary files a/bin/drill/step04/For04Test.class and /dev/null differ
+[1mdiff --git a/bin/drill/step04/For05.class b/bin/drill/step04/For05.class[m
+[1mdeleted file mode 100644[m
+[1mindex e59d16f..0000000[m
+Binary files a/bin/drill/step04/For05.class and /dev/null differ
+[1mdiff --git a/bin/drill/step04/For05Test.class b/bin/drill/step04/For05Test.class[m
+[1mdeleted file mode 100644[m
+[1mindex ff0c9aa..0000000[m
+Binary files a/bin/drill/step04/For05Test.class and /dev/null differ
+[1mdiff --git a/bin/drill/step04/For06.class b/bin/drill/step04/For06.class[m
+[1mdeleted file mode 100644[m
+[1mindex 6317771..0000000[m
+Binary files a/bin/drill/step04/For06.class and /dev/null differ
+[1mdiff --git a/bin/drill/step04/For06Test.class b/bin/drill/step04/For06Test.class[m
+[1mdeleted file mode 100644[m
+[1mindex 22f2343..0000000[m
+Binary files a/bin/drill/step04/For06Test.class and /dev/null differ
+[1mdiff --git a/bin/drill/step04/For07.class b/bin/drill/step04/For07.class[m
+[1mdeleted file mode 100644[m
+[1mindex 09b03f5..0000000[m
+Binary files a/bin/drill/step04/For07.class and /dev/null differ
+[1mdiff --git a/bin/drill/step04/For07Test.class b/bin/drill/step04/For07Test.class[m
+[1mdeleted file mode 100644[m
+[1mindex 44568f7..0000000[m
+Binary files a/bin/drill/step04/For07Test.class and /dev/null differ
+[1mdiff --git a/bin/drill/step04/For08.class b/bin/drill/step04/For08.class[m
+[1mdeleted file mode 100644[m
+[1mindex a2da7d1..0000000[m
+Binary files a/bin/drill/step04/For08.class and /dev/null differ
+[1mdiff --git a/bin/drill/step04/For08Test.class b/bin/drill/step04/For08Test.class[m
+[1mdeleted file mode 100644[m
+[1mindex f4f8c0a..0000000[m
+Binary files a/bin/drill/step04/For08Test.class and /dev/null differ
+[1mdiff --git a/bin/drill/step04/For09.class b/bin/drill/step04/For09.class[m
+[1mdeleted file mode 100644[m
+[1mindex ebc2c26..0000000[m
+Binary files a/bin/drill/step04/For09.class and /dev/null differ
+[1mdiff --git a/bin/drill/step04/For09Test.class b/bin/drill/step04/For09Test.class[m
+[1mdeleted file mode 100644[m
+[1mindex 28615be..0000000[m
+Binary files a/bin/drill/step04/For09Test.class and /dev/null differ
+[1mdiff --git a/bin/drill/step05/While01.class b/bin/drill/step05/While01.class[m
+[1mdeleted file mode 100644[m
+[1mindex 91b178d..0000000[m
+Binary files a/bin/drill/step05/While01.class and /dev/null differ
+[1mdiff --git a/bin/drill/step05/While01Test.class b/bin/drill/step05/While01Test.class[m
+[1mdeleted file mode 100644[m
+[1mindex 0a134f1..0000000[m
+Binary files a/bin/drill/step05/While01Test.class and /dev/null differ
+[1mdiff --git a/bin/drill/step05/While02.class b/bin/drill/step05/While02.class[m
+[1mdeleted file mode 100644[m
+[1mindex f3063fe..0000000[m
+Binary files a/bin/drill/step05/While02.class and /dev/null differ
+[1mdiff --git a/bin/drill/step05/While02Test.class b/bin/drill/step05/While02Test.class[m
+[1mdeleted file mode 100644[m
+[1mindex e2aa990..0000000[m
+Binary files a/bin/drill/step05/While02Test.class and /dev/null differ
+[1mdiff --git a/bin/drill/step06/Calculator1.class b/bin/drill/step06/Calculator1.class[m
+[1mdeleted file mode 100644[m
+[1mindex 112ab34..0000000[m
+Binary files a/bin/drill/step06/Calculator1.class and /dev/null differ
+[1mdiff --git a/bin/drill/step06/Calculator2.class b/bin/drill/step06/Calculator2.class[m
+[1mdeleted file mode 100644[m
+[1mindex 25b4796..0000000[m
+Binary files a/bin/drill/step06/Calculator2.class and /dev/null differ
+[1mdiff --git a/bin/drill/step06/Dice.class b/bin/drill/step06/Dice.class[m
+[1mdeleted file mode 100644[m
+[1mindex d68bda6..0000000[m
+Binary files a/bin/drill/step06/Dice.class and /dev/null differ
+[1mdiff --git a/bin/drill/step06/Method01.class b/bin/drill/step06/Method01.class[m
+[1mdeleted file mode 100644[m
+[1mindex f95b973..0000000[m
+Binary files a/bin/drill/step06/Method01.class and /dev/null differ
+[1mdiff --git a/bin/drill/step06/Method01Test.class b/bin/drill/step06/Method01Test.class[m
+[1mdeleted file mode 100644[m
+[1mindex 7ba9f1c..0000000[m
+Binary files a/bin/drill/step06/Method01Test.class and /dev/null differ
+[1mdiff --git a/bin/drill/step06/Method02.class b/bin/drill/step06/Method02.class[m
+[1mdeleted file mode 100644[m
+[1mindex 0dea5eb..0000000[m
+Binary files a/bin/drill/step06/Method02.class and /dev/null differ
+[1mdiff --git a/bin/drill/step06/Method02Test.class b/bin/drill/step06/Method02Test.class[m
+[1mdeleted file mode 100644[m
+[1mindex 575f245..0000000[m
+Binary files a/bin/drill/step06/Method02Test.class and /dev/null differ
+[1mdiff --git a/bin/drill/step06/Method03.class b/bin/drill/step06/Method03.class[m
+[1mdeleted file mode 100644[m
+[1mindex a4881be..0000000[m
+Binary files a/bin/drill/step06/Method03.class and /dev/null differ
+[1mdiff --git a/bin/drill/step06/Method03Test.class b/bin/drill/step06/Method03Test.class[m
+[1mdeleted file mode 100644[m
+[1mindex ca8a325..0000000[m
+Binary files a/bin/drill/step06/Method03Test.class and /dev/null differ
+[1mdiff --git a/bin/drill/step06/Method04.class b/bin/drill/step06/Method04.class[m
+[1mdeleted file mode 100644[m
+[1mindex e71390a..0000000[m
+Binary files a/bin/drill/step06/Method04.class and /dev/null differ
+[1mdiff --git a/bin/drill/step06/Method04Test.class b/bin/drill/step06/Method04Test.class[m
+[1mdeleted file mode 100644[m
+[1mindex 8b93d2d..0000000[m
+Binary files a/bin/drill/step06/Method04Test.class and /dev/null differ
+[1mdiff --git a/bin/drill/step06/Method05.class b/bin/drill/step06/Method05.class[m
+[1mdeleted file mode 100644[m
+[1mindex 86c0545..0000000[m
+Binary files a/bin/drill/step06/Method05.class and /dev/null differ
+[1mdiff --git a/bin/drill/step06/Method05Test.class b/bin/drill/step06/Method05Test.class[m
+[1mdeleted file mode 100644[m
+[1mindex 9b9416b..0000000[m
+Binary files a/bin/drill/step06/Method05Test.class and /dev/null differ
+[1mdiff --git a/bin/drill/step06/Method06.class b/bin/drill/step06/Method06.class[m
+[1mdeleted file mode 100644[m
+[1mindex 4e02847..0000000[m
+Binary files a/bin/drill/step06/Method06.class and /dev/null differ
+[1mdiff --git a/bin/drill/step06/Method06Test.class b/bin/drill/step06/Method06Test.class[m
+[1mdeleted file mode 100644[m
+[1mindex 3252a51..0000000[m
+Binary files a/bin/drill/step06/Method06Test.class and /dev/null differ
+[1mdiff --git a/bin/drill/step06/Method07.class b/bin/drill/step06/Method07.class[m
+[1mdeleted file mode 100644[m
+[1mindex 6e7ea9d..0000000[m
+Binary files a/bin/drill/step06/Method07.class and /dev/null differ
+[1mdiff --git a/bin/drill/step06/Method07Test.class b/bin/drill/step06/Method07Test.class[m
+[1mdeleted file mode 100644[m
+[1mindex 5d0e2fb..0000000[m
+Binary files a/bin/drill/step06/Method07Test.class and /dev/null differ
+[1mdiff --git a/bin/drill/step06/Method08.class b/bin/drill/step06/Method08.class[m
+[1mdeleted file mode 100644[m
+[1mindex 96aaac7..0000000[m
+Binary files a/bin/drill/step06/Method08.class and /dev/null differ
+[1mdiff --git a/bin/drill/step06/Method08Test.class b/bin/drill/step06/Method08Test.class[m
+[1mdeleted file mode 100644[m
+[1mindex 5113d20..0000000[m
+Binary files a/bin/drill/step06/Method08Test.class and /dev/null differ
+[1mdiff --git a/bin/drill/step06/Method09.class b/bin/drill/step06/Method09.class[m
+[1mdeleted file mode 100644[m
+[1mindex f4244ad..0000000[m
+Binary files a/bin/drill/step06/Method09.class and /dev/null differ
+[1mdiff --git a/bin/drill/step06/Method09Test.class b/bin/drill/step06/Method09Test.class[m
+[1mdeleted file mode 100644[m
+[1mindex ff9f8d7..0000000[m
+Binary files a/bin/drill/step06/Method09Test.class and /dev/null differ
+[1mdiff --git a/bin/drill/step07/StringAPI01.class b/bin/drill/step07/StringAPI01.class[m
+[1mdeleted file mode 100644[m
+[1mindex 0917a61..0000000[m
+Binary files a/bin/drill/step07/StringAPI01.class and /dev/null differ
+[1mdiff --git a/bin/drill/step07/StringAPI01Test$Fixture.class b/bin/drill/step07/StringAPI01Test$Fixture.class[m
+[1mdeleted file mode 100644[m
+[1mindex 7e27c50..0000000[m
+Binary files a/bin/drill/step07/StringAPI01Test$Fixture.class and /dev/null differ
+[1mdiff --git a/bin/drill/step07/StringAPI01Test.class b/bin/drill/step07/StringAPI01Test.class[m
+[1mdeleted file mode 100644[m
+[1mindex 4f8b7cf..0000000[m
+Binary files a/bin/drill/step07/StringAPI01Test.class and /dev/null differ
+[1mdiff --git a/bin/drill/step07/StringAPI02.class b/bin/drill/step07/StringAPI02.class[m
+[1mdeleted file mode 100644[m
+[1mindex 3422050..0000000[m
+Binary files a/bin/drill/step07/StringAPI02.class and /dev/null differ
+[1mdiff --git a/bin/drill/step07/StringAPI02Test.class b/bin/drill/step07/StringAPI02Test.class[m
+[1mdeleted file mode 100644[m
+[1mindex b43c5fe..0000000[m
+Binary files a/bin/drill/step07/StringAPI02Test.class and /dev/null differ
+[1mdiff --git a/bin/drill/step07/StringAPI03.class b/bin/drill/step07/StringAPI03.class[m
+[1mdeleted file mode 100644[m
+[1mindex a18ce8f..0000000[m
+Binary files a/bin/drill/step07/StringAPI03.class and /dev/null differ
+[1mdiff --git a/bin/drill/step07/StringAPI03Test$Fixture.class b/bin/drill/step07/StringAPI03Test$Fixture.class[m
+[1mdeleted file mode 100644[m
+[1mindex 00d810f..0000000[m
+Binary files a/bin/drill/step07/StringAPI03Test$Fixture.class and /dev/null differ
+[1mdiff --git a/bin/drill/step07/StringAPI03Test.class b/bin/drill/step07/StringAPI03Test.class[m
+[1mdeleted file mode 100644[m
+[1mindex 9a65c27..0000000[m
+Binary files a/bin/drill/step07/StringAPI03Test.class and /dev/null differ
+[1mdiff --git a/bin/drill/step08/ArrayAggregation01.class b/bin/drill/step08/ArrayAggregation01.class[m
+[1mdeleted file mode 100644[m
+[1mindex ea03049..0000000[m
+Binary files a/bin/drill/step08/ArrayAggregation01.class and /dev/null differ
+[1mdiff --git a/bin/drill/step08/ArrayAggregation01Test$Fixture.class b/bin/drill/step08/ArrayAggregation01Test$Fixture.class[m
+[1mdeleted file mode 100644[m
+[1mindex 827f9e7..0000000[m
+Binary files a/bin/drill/step08/ArrayAggregation01Test$Fixture.class and /dev/null differ
+[1mdiff --git a/bin/drill/step08/ArrayAggregation01Test.class b/bin/drill/step08/ArrayAggregation01Test.class[m
+[1mdeleted file mode 100644[m
+[1mindex 18a2f98..0000000[m
+Binary files a/bin/drill/step08/ArrayAggregation01Test.class and /dev/null differ
+[1mdiff --git a/bin/drill/step08/ArrayAggregation02.class b/bin/drill/step08/ArrayAggregation02.class[m
+[1mdeleted file mode 100644[m
+[1mindex 490b5e5..0000000[m
+Binary files a/bin/drill/step08/ArrayAggregation02.class and /dev/null differ
+[1mdiff --git a/bin/drill/step08/ArrayAggregation02Test.class b/bin/drill/step08/ArrayAggregation02Test.class[m
+[1mdeleted file mode 100644[m
+[1mindex b65adca..0000000[m
+Binary files a/bin/drill/step08/ArrayAggregation02Test.class and /dev/null differ
+[1mdiff --git a/bin/drill/step08/ArrayAggregation03.class b/bin/drill/step08/ArrayAggregation03.class[m
+[1mdeleted file mode 100644[m
+[1mindex 1e7e58a..0000000[m
+Binary files a/bin/drill/step08/ArrayAggregation03.class and /dev/null differ
+[1mdiff --git a/bin/drill/step08/ArrayAggregation03Test$Fixture.class b/bin/drill/step08/ArrayAggregation03Test$Fixture.class[m
+[1mdeleted file mode 100644[m
+[1mindex cfc9e1c..0000000[m
+Binary files a/bin/drill/step08/ArrayAggregation03Test$Fixture.class and /dev/null differ
+[1mdiff --git a/bin/drill/step08/ArrayAggregation03Test.class b/bin/drill/step08/ArrayAggregation03Test.class[m
+[1mdeleted file mode 100644[m
+[1mindex 5d1ce1b..0000000[m
+Binary files a/bin/drill/step08/ArrayAggregation03Test.class and /dev/null differ
+[1mdiff --git a/bin/drill/step08/ArrayAggregation04.class b/bin/drill/step08/ArrayAggregation04.class[m
+[1mdeleted file mode 100644[m
+[1mindex 1e6d76d..0000000[m
+Binary files a/bin/drill/step08/ArrayAggregation04.class and /dev/null differ
+[1mdiff --git a/bin/drill/step08/ArrayAggregation04Test$Fixture.class b/bin/drill/step08/ArrayAggregation04Test$Fixture.class[m
+[1mdeleted file mode 100644[m
+[1mindex 5ea76eb..0000000[m
+Binary files a/bin/drill/step08/ArrayAggregation04Test$Fixture.class and /dev/null differ
+[1mdiff --git a/bin/drill/step08/ArrayAggregation04Test.class b/bin/drill/step08/ArrayAggregation04Test.class[m
+[1mdeleted file mode 100644[m
+[1mindex 65d2e87..0000000[m
+Binary files a/bin/drill/step08/ArrayAggregation04Test.class and /dev/null differ
+[1mdiff --git a/bin/drill/step09/StringScan01.class b/bin/drill/step09/StringScan01.class[m
+[1mdeleted file mode 100644[m
+[1mindex b56a7b8..0000000[m
+Binary files a/bin/drill/step09/StringScan01.class and /dev/null differ
+[1mdiff --git a/bin/drill/step09/StringScan01Test.class b/bin/drill/step09/StringScan01Test.class[m
+[1mdeleted file mode 100644[m
+[1mindex a203df1..0000000[m
+Binary files a/bin/drill/step09/StringScan01Test.class and /dev/null differ
+[1mdiff --git a/bin/drill/step09/StringScan02.class b/bin/drill/step09/StringScan02.class[m
+[1mdeleted file mode 100644[m
+[1mindex 6373eae..0000000[m
+Binary files a/bin/drill/step09/StringScan02.class and /dev/null differ
+[1mdiff --git a/bin/drill/step09/StringScan02Test$Fixture.class b/bin/drill/step09/StringScan02Test$Fixture.class[m
+[1mdeleted file mode 100644[m
+[1mindex 28b59ae..0000000[m
+Binary files a/bin/drill/step09/StringScan02Test$Fixture.class and /dev/null differ
+[1mdiff --git a/bin/drill/step09/StringScan02Test.class b/bin/drill/step09/StringScan02Test.class[m
+[1mdeleted file mode 100644[m
+[1mindex acb2b3b..0000000[m
+Binary files a/bin/drill/step09/StringScan02Test.class and /dev/null differ
+[1mdiff --git a/bin/drill/step09/StringScan03.class b/bin/drill/step09/StringScan03.class[m
+[1mdeleted file mode 100644[m
+[1mindex dca8eb3..0000000[m
+Binary files a/bin/drill/step09/StringScan03.class and /dev/null differ
+[1mdiff --git a/bin/drill/step09/StringScan03Test$Fixture.class b/bin/drill/step09/StringScan03Test$Fixture.class[m
+[1mdeleted file mode 100644[m
+[1mindex fae75cc..0000000[m
+Binary files a/bin/drill/step09/StringScan03Test$Fixture.class and /dev/null differ
+[1mdiff --git a/bin/drill/step09/StringScan03Test.class b/bin/drill/step09/StringScan03Test.class[m
+[1mdeleted file mode 100644[m
+[1mindex 47e09fd..0000000[m
+Binary files a/bin/drill/step09/StringScan03Test.class and /dev/null differ
+[1mdiff --git a/bin/drill/step09/StringScan04.class b/bin/drill/step09/StringScan04.class[m
+[1mdeleted file mode 100644[m
+[1mindex 5010f98..0000000[m
+Binary files a/bin/drill/step09/StringScan04.class and /dev/null differ
+[1mdiff --git a/bin/drill/step09/StringScan04Test$Fixture.class b/bin/drill/step09/StringScan04Test$Fixture.class[m
+[1mdeleted file mode 100644[m
+[1mindex 267042f..0000000[m
+Binary files a/bin/drill/step09/StringScan04Test$Fixture.class and /dev/null differ
+[1mdiff --git a/bin/drill/step09/StringScan04Test.class b/bin/drill/step09/StringScan04Test.class[m
+[1mdeleted file mode 100644[m
+[1mindex 09dfb79..0000000[m
+Binary files a/bin/drill/step09/StringScan04Test.class and /dev/null differ
+[1mdiff --git a/bin/drill/step09/StringScan05.class b/bin/drill/step09/StringScan05.class[m
+[1mdeleted file mode 100644[m
+[1mindex 9dde27b..0000000[m
+Binary files a/bin/drill/step09/StringScan05.class and /dev/null differ
+[1mdiff --git a/bin/drill/step09/StringScan05Test$Fixture.class b/bin/drill/step09/StringScan05Test$Fixture.class[m
+[1mdeleted file mode 100644[m
+[1mindex da4bfd2..0000000[m
+Binary files a/bin/drill/step09/StringScan05Test$Fixture.class and /dev/null differ
+[1mdiff --git a/bin/drill/step09/StringScan05Test.class b/bin/drill/step09/StringScan05Test.class[m
+[1mdeleted file mode 100644[m
+[1mindex 047e0ca..0000000[m
+Binary files a/bin/drill/step09/StringScan05Test.class and /dev/null differ
+[1mdiff --git a/bin/drill/step10/ArrayList01.class b/bin/drill/step10/ArrayList01.class[m
+[1mdeleted file mode 100644[m
+[1mindex a6fa23c..0000000[m
+Binary files a/bin/drill/step10/ArrayList01.class and /dev/null differ
+[1mdiff --git a/bin/drill/step10/ArrayList01Test.class b/bin/drill/step10/ArrayList01Test.class[m
+[1mdeleted file mode 100644[m
+[1mindex d4bb09f..0000000[m
+Binary files a/bin/drill/step10/ArrayList01Test.class and /dev/null differ
+[1mdiff --git a/bin/drill/step10/ArrayList02.class b/bin/drill/step10/ArrayList02.class[m
+[1mdeleted file mode 100644[m
+[1mindex 1bfc9a1..0000000[m
+Binary files a/bin/drill/step10/ArrayList02.class and /dev/null differ
+[1mdiff --git a/bin/drill/step10/ArrayList02Test.class b/bin/drill/step10/ArrayList02Test.class[m
+[1mdeleted file mode 100644[m
+[1mindex 13028b1..0000000[m
+Binary files a/bin/drill/step10/ArrayList02Test.class and /dev/null differ
+[1mdiff --git a/bin/drill/step10/ArrayList03.class b/bin/drill/step10/ArrayList03.class[m
+[1mdeleted file mode 100644[m
+[1mindex 9d1aa9d..0000000[m
+Binary files a/bin/drill/step10/ArrayList03.class and /dev/null differ
+[1mdiff --git a/bin/drill/step10/ArrayList03Test.class b/bin/drill/step10/ArrayList03Test.class[m
+[1mdeleted file mode 100644[m
+[1mindex 5f789eb..0000000[m
+Binary files a/bin/drill/step10/ArrayList03Test.class and /dev/null differ
+[1mdiff --git a/bin/drill/step10/ArrayList04.class b/bin/drill/step10/ArrayList04.class[m
+[1mdeleted file mode 100644[m
+[1mindex d9d1272..0000000[m
+Binary files a/bin/drill/step10/ArrayList04.class and /dev/null differ
+[1mdiff --git a/bin/drill/step10/ArrayList04Test.class b/bin/drill/step10/ArrayList04Test.class[m
+[1mdeleted file mode 100644[m
+[1mindex 71eb157..0000000[m
+Binary files a/bin/drill/step10/ArrayList04Test.class and /dev/null differ
+[1mdiff --git a/bin/drill/step10/ArrayList05.class b/bin/drill/step10/ArrayList05.class[m
+[1mdeleted file mode 100644[m
+[1mindex f4da37f..0000000[m
+Binary files a/bin/drill/step10/ArrayList05.class and /dev/null differ
+[1mdiff --git a/bin/drill/step10/ArrayList05Test.class b/bin/drill/step10/ArrayList05Test.class[m
+[1mdeleted file mode 100644[m
+[1mindex 5cf7fce..0000000[m
+Binary files a/bin/drill/step10/ArrayList05Test.class and /dev/null differ
+[1mdiff --git a/bin/drill/step10/ArrayList06.class b/bin/drill/step10/ArrayList06.class[m
+[1mdeleted file mode 100644[m
+[1mindex 44fb80f..0000000[m
+Binary files a/bin/drill/step10/ArrayList06.class and /dev/null differ
+[1mdiff --git a/bin/drill/step10/ArrayList06Test.class b/bin/drill/step10/ArrayList06Test.class[m
+[1mdeleted file mode 100644[m
+[1mindex 207ecfa..0000000[m
+Binary files a/bin/drill/step10/ArrayList06Test.class and /dev/null differ
+[1mdiff --git a/bin/drill/step10/ArrayList07.class b/bin/drill/step10/ArrayList07.class[m
+[1mdeleted file mode 100644[m
+[1mindex 9a21b57..0000000[m
+Binary files a/bin/drill/step10/ArrayList07.class and /dev/null differ
+[1mdiff --git a/bin/drill/step10/ArrayList07Test.class b/bin/drill/step10/ArrayList07Test.class[m
+[1mdeleted file mode 100644[m
+[1mindex 751bcc4..0000000[m
+Binary files a/bin/drill/step10/ArrayList07Test.class and /dev/null differ
+[1mdiff --git a/bin/drill/step10/ArrayList08.class b/bin/drill/step10/ArrayList08.class[m
+[1mdeleted file mode 100644[m
+[1mindex 8ac8157..0000000[m
+Binary files a/bin/drill/step10/ArrayList08.class and /dev/null differ
+[1mdiff --git a/bin/drill/step10/ArrayList08Test.class b/bin/drill/step10/ArrayList08Test.class[m
+[1mdeleted file mode 100644[m
+[1mindex 31ab1ff..0000000[m
+Binary files a/bin/drill/step10/ArrayList08Test.class and /dev/null differ
+[1mdiff --git a/bin/drill/step10/ArrayList09.class b/bin/drill/step10/ArrayList09.class[m
+[1mdeleted file mode 100644[m
+[1mindex 3d26540..0000000[m
+Binary files a/bin/drill/step10/ArrayList09.class and /dev/null differ
+[1mdiff --git a/bin/drill/step10/ArrayList09Test.class b/bin/drill/step10/ArrayList09Test.class[m
+[1mdeleted file mode 100644[m
+[1mindex d85cd93..0000000[m
+Binary files a/bin/drill/step10/ArrayList09Test.class and /dev/null differ
+[1mdiff --git a/bin/drill/step10/ArrayList10.class b/bin/drill/step10/ArrayList10.class[m
+[1mdeleted file mode 100644[m
+[1mindex 9fae98a..0000000[m
+Binary files a/bin/drill/step10/ArrayList10.class and /dev/null differ
+[1mdiff --git a/bin/drill/step10/ArrayList10Test$Fixture.class b/bin/drill/step10/ArrayList10Test$Fixture.class[m
+[1mdeleted file mode 100644[m
+[1mindex 7082612..0000000[m
+Binary files a/bin/drill/step10/ArrayList10Test$Fixture.class and /dev/null differ
+[1mdiff --git a/bin/drill/step10/ArrayList10Test.class b/bin/drill/step10/ArrayList10Test.class[m
+[1mdeleted file mode 100644[m
+[1mindex 280e1a2..0000000[m
+Binary files a/bin/drill/step10/ArrayList10Test.class and /dev/null differ
+[1mdiff --git a/bin/drill/step10/Item.class b/bin/drill/step10/Item.class[m
+[1mdeleted file mode 100644[m
+[1mindex 05a735f..0000000[m
+Binary files a/bin/drill/step10/Item.class and /dev/null differ
+[1mdiff --git a/bin/drill/step11/Map01.class b/bin/drill/step11/Map01.class[m
+[1mdeleted file mode 100644[m
+[1mindex 4031630..0000000[m
+Binary files a/bin/drill/step11/Map01.class and /dev/null differ
+[1mdiff --git a/bin/drill/step11/Map01Test.class b/bin/drill/step11/Map01Test.class[m
+[1mdeleted file mode 100644[m
+[1mindex 16689d8..0000000[m
+Binary files a/bin/drill/step11/Map01Test.class and /dev/null differ
+[1mdiff --git a/bin/drill/step11/Map02.class b/bin/drill/step11/Map02.class[m
+[1mdeleted file mode 100644[m
+[1mindex 4450b95..0000000[m
+Binary files a/bin/drill/step11/Map02.class and /dev/null differ
+[1mdiff --git a/bin/drill/step11/Map02Test.class b/bin/drill/step11/Map02Test.class[m
+[1mdeleted file mode 100644[m
+[1mindex da5883a..0000000[m
+Binary files a/bin/drill/step11/Map02Test.class and /dev/null differ
+[1mdiff --git a/bin/drill/step11/Map03.class b/bin/drill/step11/Map03.class[m
+[1mdeleted file mode 100644[m
+[1mindex a8081f2..0000000[m
+Binary files a/bin/drill/step11/Map03.class and /dev/null differ
+[1mdiff --git a/bin/drill/step11/Map03Test.class b/bin/drill/step11/Map03Test.class[m
+[1mdeleted file mode 100644[m
+[1mindex dff9860..0000000[m
+Binary files a/bin/drill/step11/Map03Test.class and /dev/null differ
+[1mdiff --git a/bin/drill/step11/Map04.class b/bin/drill/step11/Map04.class[m
+[1mdeleted file mode 100644[m
+[1mindex 94f6028..0000000[m
+Binary files a/bin/drill/step11/Map04.class and /dev/null differ
+[1mdiff --git a/bin/drill/step11/Map04Test.class b/bin/drill/step11/Map04Test.class[m
+[1mdeleted file mode 100644[m
+[1mindex e78cd6a..0000000[m
+Binary files a/bin/drill/step11/Map04Test.class and /dev/null differ
+[1mdiff --git a/bin/drill/step11/Map05.class b/bin/drill/step11/Map05.class[m
+[1mdeleted file mode 100644[m
+[1mindex 0506881..0000000[m
+Binary files a/bin/drill/step11/Map05.class and /dev/null differ
+[1mdiff --git a/bin/drill/step11/Map05Test.class b/bin/drill/step11/Map05Test.class[m
+[1mdeleted file mode 100644[m
+[1mindex 4cb520a..0000000[m
+Binary files a/bin/drill/step11/Map05Test.class and /dev/null differ
+[1mdiff --git a/bin/drill/step11/Map06.class b/bin/drill/step11/Map06.class[m
+[1mdeleted file mode 100644[m
+[1mindex 21b27a6..0000000[m
+Binary files a/bin/drill/step11/Map06.class and /dev/null differ
+[1mdiff --git a/bin/drill/step11/Map06Test.class b/bin/drill/step11/Map06Test.class[m
+[1mdeleted file mode 100644[m
+[1mindex a4e5b2b..0000000[m
+Binary files a/bin/drill/step11/Map06Test.class and /dev/null differ
+[1mdiff --git a/bin/drill/step11/Map07.class b/bin/drill/step11/Map07.class[m
+[1mdeleted file mode 100644[m
+[1mindex bdfd419..0000000[m
+Binary files a/bin/drill/step11/Map07.class and /dev/null differ
+[1mdiff --git a/bin/drill/step11/Map07Test.class b/bin/drill/step11/Map07Test.class[m
+[1mdeleted file mode 100644[m
+[1mindex b6f8d7f..0000000[m
+Binary files a/bin/drill/step11/Map07Test.class and /dev/null differ
