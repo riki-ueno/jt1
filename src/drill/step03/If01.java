@@ -33,7 +33,13 @@ public class If01 {
 	 */
 	public static void judge(int n) {
 		//-----↓実装ここから↓-------
-
+		if (n > 0) {
+			System.out.println("正の数です");
+		} else if (n < 0) {
+			System.out.println("負の数です");
+		} else {
+			System.out.println("0です");
+		}
 		//-----↑実装ここまで↑-------
 	}
 

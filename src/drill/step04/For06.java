@@ -41,7 +41,12 @@ public class For06 {
 		// ruby
 		// java
 		//-----↓実装ここから↓-------
-
+		for (int i = array.length - 1; i >= 0; i--) {
+			System.out.println(array[i]);
+		}
+//		for (int i = -4; i <= 0; i++) {
+//			System.out.println(array[i]);
+//		}
 		//-----↑実装ここまで↑-------
 	}
 
